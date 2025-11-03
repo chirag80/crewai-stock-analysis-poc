@@ -3,3 +3,6 @@ crewai[tools]
 langchain-openai
 python-dotenv
 tavily-python
+langsmith
+openinference-instrumentation-crewai
+openinference-instrumentation-openai
